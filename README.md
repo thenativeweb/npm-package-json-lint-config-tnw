@@ -21,9 +21,9 @@ $ npm install npm-package-json-lint-config-tnw \
 
 ## Quick Start
 
-This module contains a very strict package-json-lint configuration, one for apps and one for libraries. Its aims to eradicate _any_ variation in your package.json files. It intends to make your package manifests look uniform, enforce that certain fields exist and prevent you from accidentally installing non-strict dependencies. This helps you to narrow down your focus to pure content, as you do not have to think about the order of fields or which fields you need any more. There is very little difference between the config variant for apps and the one for libraries; The difference is mainly that libraries expose an entry point for code imports, while apps expose an executable.
+This module contains a very strict package-json-lint configuration, one for apps and one for libraries. It aims to eradicate _any_ variation in your `package.json` files. It intends to make your package manifests look uniform, enforce that certain fields exist and prevent you from accidentally installing non-strict dependencies. This helps you to narrow down your focus to pure content, as you do not have to think about the order of fields or which fields you need any more. There is very little difference between the config variant for apps and the one for libraries; The difference is mainly that libraries expose an entry point for code imports, while apps expose an executable.
 
-To use one of those configurations, create a `.npmpackagejsonlintrc.json` file in your project and use the `extends` keyword.
+To use one of those configurations, create a `.npmpackagejsonlintrc.json` file in your project and use the `extends` keyword:
 
 ```json
 {
