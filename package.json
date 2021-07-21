@@ -1,0 +1,35 @@
+{
+  "name": "npm-package-json-lint-config-tnw",
+  "version": "0.0.1",
+  "description": "npm-package-json-lint-config-tnw contains a strict package-json-lint configuration for apps and libraries.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Hannes Leutloff",
+      "email": "hannes.leutloff@thenativeweb.io"
+    }
+  ],
+  "private": false,
+  "main": "lib.json",
+  "engines": {
+    "node": ">=16.2.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "roboter": "11.7.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/npm-package-json-lint-config-tnw.git"
+  },
+  "keywords": [
+    "package.json",
+    "lint",
+    "npm-package-json-lint"
+  ],
+  "license": "MIT"
+}
