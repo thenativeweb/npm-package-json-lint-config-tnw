@@ -17,9 +17,9 @@
   "engines": {
     "node": ">=16.2.0"
   },
-  "dependencies": {},
   "devDependencies": {
-    "roboter": "11.7.8"
+    "roboter": "11.7.8",
+    "semantic-release-configuration": "2.0.5"
   },
   "scripts": {},
   "repository": {
