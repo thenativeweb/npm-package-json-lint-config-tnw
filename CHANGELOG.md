@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/compare/1.0.0...1.0.1) (2021-07-26)
+
+
+### Bug Fixes
+
+* Reference base using package name instead of relatively. ([#5](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/issues/5)) ([e4fed11](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/commit/e4fed11e6637bc64bda39869a3a60f33d2b11921))
+
 # 1.0.0 (2021-07-21)
 
 
