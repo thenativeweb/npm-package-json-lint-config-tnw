@@ -1,6 +1,6 @@
 {
   "name": "npm-package-json-lint-config-tnw",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "npm-package-json-lint-config-tnw contains a strict package-json-lint configuration for apps and libraries.",
   "contributors": [
     {

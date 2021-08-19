@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/compare/1.1.0...1.1.1) (2021-08-19)
+
+
+### Bug Fixes
+
+* Disable requiring engines field. ([#8](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/issues/8)) ([8a0c7ee](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/commit/8a0c7ee63f708a6e296aeb1655e5f45e60f84bfd))
+
 # [1.1.0](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/compare/1.0.1...1.1.0) (2021-08-10)
 
 
