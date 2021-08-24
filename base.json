@@ -61,12 +61,7 @@
 
     "valid-values-author": "off",
     "valid-values-engines": "off",
-    "valid-values-license": [ "error", [
-      "AGPL-3.0",
-      "AGPL-3.0-or-later",
-      "MIT",
-      "UNLICENSED"
-    ]],
+    "valid-values-license": "off",
     "valid-values-name-scope": "off",
     "valid-values-private": "off",
     "valid-values-publishConfig": "off",
