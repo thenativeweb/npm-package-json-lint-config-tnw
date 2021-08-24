@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/compare/1.1.1...1.1.2) (2021-08-24)
+
+
+### Bug Fixes
+
+* allow any license ([#11](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/issues/11)) ([8333515](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/commit/8333515eaee138c026d71c0d0974f1f7d44fe058))
+
 ## [1.1.1](https://github.com/thenativeweb/npm-package-json-lint-config-tnw/compare/1.1.0...1.1.1) (2021-08-19)
 
 
